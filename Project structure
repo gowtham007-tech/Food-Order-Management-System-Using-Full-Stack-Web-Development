@@ -1,0 +1,14 @@
+food_order/
+│
+├── manage.py
+├── food_order/
+│   ├── settings.py
+│   ├── urls.py
+│   └── ...
+│
+└── orders/
+    ├── models.py
+    ├── serializers.py
+    ├── views.py
+    ├── urls.py
+    └── ...
